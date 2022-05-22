@@ -1,0 +1,171 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" >
+<style>
+.track {
+  fill: none; 
+}
+
+.round {
+  stroke-linejoin: round;
+}
+
+</style>
+ <!-- <rect width="100mm" height="100mm"  / -->
+ 
+ <!--  
+  <rect x="0mm" y="0mm" height="100mm" width="100mm" stroke="black" fill="transparent" stroke-width="1"/>
+  -->
+  <g transform="scale(3.77,3.77)" >
+     <polygon class="track round" points="   10,10 10,54 20,54 30,44 40,44 40,20 30,20 20,10 10,10 " stroke="green" fill="transparent" stroke-width="1"/>   
+
+<!--
+     <polygon points="   0,0 0,50 50,50 50,0 0,0" stroke="green" fill="transparent" stroke-width="1"/>   
+     <polygon points="   100,100 100,50 50,50 50,100 100,100" stroke-width="1" fill="transparent" stroke-width="1"/>   
+-->
+  </g>
+  <g>
+   <rect x="9.9mm" y="11.5mm" width="3mm" height="41mm" stroke="purple" fill="purple"  />
+  </g>
+  <g>
+  <rect x="30mm" y="21mm" width="10mm" height="22mm" stroke="blue" fill="black" />
+  </g>  
+  <g>
+       <rect x="10mm" y="12mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="14.54mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="17.08mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="19.62mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="22.16mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="24.7mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="27.24mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="29.78mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="32.32mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="34.86mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="37.4mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="39.94mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="42.48mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="45.02mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="47.56mm" width="9mm" height="2mm" />
+      <rect x="10mm" y="50.1mm" width="9mm" height="2mm" />
+     </g>  
+  <g transform="scale(3.77,3.77)" >
+       <polygon points="   
+   18.5,12.5 
+   
+   30.5,21.5   30.5,23   
+   18.5,14   18.5,12.5 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,15.04 
+   
+   30.5,22.75   30.5,24.25   
+   18.5,16.54   18.5,15.04 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,17.58 
+   
+   30.5,24   30.5,25.5   
+   18.5,19.08   18.5,17.58 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,20.12 
+   
+   30.5,25.25   30.5,26.75   
+   18.5,21.62   18.5,20.12 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,22.66 
+   
+   30.5,26.5   30.5,28   
+   18.5,24.16   18.5,22.66 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,25.2 
+   
+   30.5,27.75   30.5,29.25   
+   18.5,26.7   18.5,25.2 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,27.74 
+   
+   30.5,29   30.5,30.5   
+   18.5,29.24   18.5,27.74 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,30.28 
+   
+   30.5,30.25   30.5,31.75   
+   18.5,31.78   18.5,30.28 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,32.82 
+   
+   30.5,31.5   30.5,33   
+   18.5,34.32   18.5,32.82 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,35.36 
+   
+   30.5,32.75   30.5,34.25   
+   18.5,36.86   18.5,35.36 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,37.9 
+   
+   30.5,34   30.5,35.5   
+   18.5,39.4   18.5,37.9 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,40.44 
+   
+   30.5,35.25   30.5,36.75   
+   18.5,41.94   18.5,40.44 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,42.98 
+   
+   30.5,36.5   30.5,38   
+   18.5,44.48   18.5,42.98 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,45.52 
+   
+   30.5,37.75   30.5,39.25   
+   18.5,47.02   18.5,45.52 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,48.06 
+   
+   30.5,39   30.5,40.5   
+   18.5,49.56   18.5,48.06 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+      <polygon points="   
+   18.5,50.6 
+   
+   30.5,40.25   30.5,41.75   
+   18.5,52.1   18.5,50.6 
+   " stroke="red" stroke-width="1" fill="orange" stroke="orange" /> 
+    
+     </g>  
+     
+  
+  <!--
+ <g transform="scale(3.77,3.77) translate(40,0)" >  
+ <polygon points="   10,10 10,54 20,54 30,44 40,44 40,20 30,20 20,10 10,10 " stroke="green" fill="transparent" stroke-width="1"/> 
+ </g>
+ -->
+</svg>
+

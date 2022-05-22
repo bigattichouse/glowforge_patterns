@@ -1,0 +1,36 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32cm" height="30cm">
+<style>
+.track {
+  fill: none; 
+}
+
+.round {
+  stroke-linejoin: round;
+}
+</style>
+  <g>
+  <circle cx="0.5cm" cy="0.5cm" r="2.5mm" stroke="green" stroke-width="5mm" fill="white"/>  
+  <circle cx="31.5cm" cy="29.5cm" r="2.5mm" stroke="green" stroke-width="5mm" fill="white"/>  
+  
+  <circle cx="31.5cm" cy="0.5cm" r="2.5mm" stroke="green" stroke-width="5mm" fill="white"/>  
+  <circle cx="0.5cm" cy="29.5cm" r="2.5mm" stroke="green" stroke-width="5mm" fill="white"/>  
+  
+  
+  <circle cx="15.75cm" cy="0.5cm" r="2.5mm" stroke="green" stroke-width="5mm" fill="white"/>  
+  <circle cx="15.75cm" cy="29.5cm" r="2.5mm" stroke="green" stroke-width="5mm" fill="white"/>  
+  
+   
+  <circle cx="0.5cm" cy="14.75cm" r="2.5mm" stroke="green" stroke-width="5mm" fill="white"/>  
+  <circle cx="31.5cm" cy="14.75cm" r="2.5mm" stroke="green" stroke-width="5mm" fill="white"/> 
+  
+  </g>
+  
+ <g transform="scale(38)">
+  <polygon class="track round" points="0.0,0.0 31.9,0 31.9,29.9 0,29.9 " stroke="green" fill="transparent" stroke-width="0.1"/>  
+ </g> 
+
+  
+ 
+ 
+ 
+</svg>

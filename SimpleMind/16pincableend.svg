@@ -1,0 +1,27 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" >
+<style>
+.track {
+  fill: none; 
+}
+
+.round {
+  stroke-linejoin: round;
+}
+
+</style>
+ <!-- <rect width="100mm" height="100mm"  / -->
+
+  <g transform=""> <!-- g transform="scale(35.43307,35.43307) translate(7,0) rotate(90)" -->
+  <circle cx="50mm" cy="50mm" r="0.4mm" stroke="green" stroke-width="0.4mm" />  
+  <circle cx="52.54mm" cy="50mm" r="0.4mm" stroke="green" stroke-width="0.4mm" />  
+  <circle cx="55.08mm" cy="50mm" r="0.4mm" stroke="green" stroke-width="0.4mm" />  
+  <circle cx="57.62mm" cy="50mm" r="0.4mm" stroke="green" stroke-width="0.4mm" />  
+  
+  
+  </g>
+
+  
+ 
+ 
+ 
+</svg>
